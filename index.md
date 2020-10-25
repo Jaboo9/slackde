@@ -35,6 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact Us
 
 Address: No 39, Ladipo Street Mushin
+
 Facebook: 
+
 Twitter:
+
 Instagram: 
